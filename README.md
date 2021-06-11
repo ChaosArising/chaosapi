@@ -31,3 +31,7 @@ Access the docs [here](https://api.chaosarising.xyz)
 * `/image/aiperson`
 
 And More!
+
+
+Tags:
+#API #Discord #Free
